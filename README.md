@@ -21,7 +21,7 @@ The design sends a predefined **binary sequence** at fixed time intervals genera
 
 ---
 
-## 📂 Project Structure (with Explanation)
+## 📂 Project Structure 
 
 ```
 /src
@@ -216,12 +216,4 @@ After completing this project, you will understand:
 
 ---
 
-## 📝 License
 
-This project is for educational purposes and may be modified for learning or research.
-
----
-
-**Author:** Your Name  
-**Date:** 2024-XX-XX  
-**Version:** 1.0
